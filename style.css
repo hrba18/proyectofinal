@@ -1,0 +1,16 @@
+/*DOCUMENTO CSS*/
+
+nav {
+    @media (max-width: 1089px) {
+        .nav-button {
+            font-size: 14px;
+            padding: 8px 12px;
+            margin-left: 0px;
+            margin-right: 50px;
+        }
+    .containernav {max-width: 529px;}
+    }
+    background-color: #fff;
+    padding: 10px 0;
+
+}
